@@ -1,0 +1,1 @@
+Exploratory Data Analysis: This dataset talks about how to effectively pre-process the data and how to run the necessary libraries in python. It also includes describing the data, cleaning the data and then making effective visualizations which can help in making data driven decisions.   
